@@ -15,7 +15,7 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("***************************************************************************");
 int sum = ds.GetSumEvenArrEl(array);
 
-Console.WriteLine("Сумма четных элементов массива: " + sum);
+Console.WriteLine("Сумма четных элементов массива: " + sum); 
 Console.ReadKey();
    
 
